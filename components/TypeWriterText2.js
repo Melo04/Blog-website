@@ -1,12 +1,9 @@
-import React from "react";
 import Typewriter from "typewriter-effect";
 
-//A blog website featuring tech and gadgets build using Nextjs
-
-const TypeWriterText = () => {
+export default function TypeWriterText2() {
   return (
     <>
-      <div className="mx-16 mb-10 md:mx-40 px-4 md:px-8 py-8 bg-white shadow-2xl rounded-lg">
+      <div className="mx-4 md:mx-40 px-4 md:px-8 py-8 bg-white shadow-2xl rounded-lg">
         <h1 className="text-xl md:text-3xl mx-4 md:mx-40 capitalize font-extrabold text-black self-center text-center font-nunito">
           Unleash Your{" "}
           <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-800 via-blue-400 to-green-500">
@@ -62,5 +59,3 @@ const TypeWriterText = () => {
     </>
   );
 };
-
-export default TypeWriterText;

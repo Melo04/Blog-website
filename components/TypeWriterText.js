@@ -1,7 +1,6 @@
-import React from "react";
 import Typewriter from "typewriter-effect";
 
-const TypeWriterText = () => {
+export default function TypeWriterText() {
   return (
     <>
       <div className="mx-4 md:mx-40 px-4 md:px-8 py-8 bg-white shadow-2xl rounded-lg">
@@ -60,5 +59,3 @@ const TypeWriterText = () => {
     </>
   );
 };
-
-export default TypeWriterText;
