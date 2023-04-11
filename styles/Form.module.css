@@ -1,0 +1,40 @@
+
+.input_group{
+    @apply flex border rounded-xl;
+    position: relative;
+}
+
+.input_text{
+    @apply w-full py-3 px-5 border rounded-xl bg-slate-50;
+    @apply focus:outline-none border-none;
+}
+
+.button{
+     background: #59c173; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #59c173, #a17fe0, #5d26c1); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #59c173, #a17fe0, #5d26c1);
+    @apply w-full rounded-xl;
+    @apply py-3 text-gray-50 text-lg;
+}
+
+.button:hover{
+    @apply bg-gradient-to-r from-gray-50 to-gray-100 border-blue-500;
+    @apply text-gray-700 border;
+}
+
+.button_custom{
+ @apply w-full border py-2 flex justify-center gap-2 hover:bg-gray-200;
+}
+
+.input_text + *{
+    color: #CBD5E1;
+}
+
+.input_text:focus + *{
+    color: #6366f1;
+}
+
+.input_text:not([type=email]) ~ span:hover *{
+    color: #6366f1;
+    cursor: pointer;
+}

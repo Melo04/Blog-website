@@ -1,6 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# __Technology Blog Website 📝__
 
-## Getting Started
+This is a technology blog website buit using NextJs and tailwindcss compromise of 3 pages, Home, About and Dashboard page
+
+<br/>
+
+## __Tech Stacks 🚀__
+### __FrontEnd__
+- Nextjs
+- Tailwind css
+
+### __Backend__
+- GraphQl
+- Mongodb
+
+<br/>
+
+## __Things I learned__
+- getStaticProps
+- getServerSideProps
+- getStaticPaths
+- using GraphQl as Backend
+
+<br/>
+
+## __Getting Started__
 
 First, run the development server:
 
