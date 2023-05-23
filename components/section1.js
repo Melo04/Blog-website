@@ -18,7 +18,7 @@ export default function section1() {
 
     return (
       <section className="py-16 -mb-10 bg-gradient-to-r from-yellow-200 via-green-200 to-green-300">
-        <div className="container sm:mt-20 mx-10 sm:mx-auto md:px-20 mt-20">
+        <div className="container mx-auto md:px-20 mt-20">
           <Swiper
             slidesPerView={1}
             loop={true}

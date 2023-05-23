@@ -39,7 +39,6 @@ const QUERY = gql`
 export default function admin({session, posts}) {
   const router = useRouter();
   const loginSuccess = router.query.loginSuccess;
-  // console.log(posts)
 
   if (loginSuccess === "true") {
     toast.success("Successfully login!", {

@@ -18,7 +18,7 @@ The other quantum concept central to quantum computing is entanglement, whereby 
             `,
       published: "Jun 3,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -43,11 +43,11 @@ Secondly, decentralisation is a term that has multifarious meanings across diffe
 
 Lastly, blockchain is a new technology that operates a public ledger that is trustless, indisputable, and theoretically tamper-proof [19]. Blockchains have three key characteristics that separate them from other databases and ledgers, in that they are open, have a full and public history of transactions, and are operated through a cryptographic consensus protocol [20]. Further details about the features and operation of a blockchain are found in Sections 4 The potential of blockchain technology, 5 Governance and blockchain.
             `,
-      published: "Jun 5,  2022",
+      published: "Jun 5, 2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
-        designation: "CEO and Founder",
+        designation: "Software Developer",
       },
     },
     {
@@ -75,7 +75,7 @@ Our homes and our cars will increasingly be watched over with A.I.-integrated se
 `,
       published: "Jun 7,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -101,7 +101,7 @@ The eMBB is certainly going to play a pivotal role in the initial phases of the 
 Typical industrial applications like robotic production lines, sensor networks, and industrial plant equipment on the shop floor communicate with respective control systems over field buses that generally use a variety of protocols. Performance requirements of these links not able to connect with Wi-Fi or LTE networks. Due to the URLLC feature for 5G, the 3GPP Release-16 specification has introduced distinct 5G enablers for Industry 4.0, industrial IoT (IIoT) that incorporate 5G as a bridge to IEEE TSN, officially includes non-public networks and support for 5G-LAN type service. This is helping industrial designers to develop mobile networks that meet requirements for coverage, time-critical performance, and security aspects to achieve the expected Quality of Service (QoS). The 5G private networks are a preferred choice for industrial communication as high security and privacy requirements can be met through isolation from public mobile networks apart from the advantages of high quality of service and easier maintenance of operations.`,
       published: "Jun 10,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -122,7 +122,7 @@ Typical industrial applications like robotic production lines, sensor networks, 
 “Japan should not help the tiger (U.S.), because the pain is still there. The embargo will only further inspire China’s determination to stand on its own feet,” Qin said.`,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -144,7 +144,7 @@ Johor police chief Comm Datuk Kamarul Zaman Mamat said they were told of the cas
             `,
       published: "Jun 5,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -170,7 +170,7 @@ It has also said that it will embed a version of the technology in its Office ap
             `,
       published: "Jun 5,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -194,7 +194,7 @@ Johor police chief Comm Datuk Kamarul Zaman Mamat said they were told of the cas
             `,
       published: "Jun 5,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -217,7 +217,7 @@ Johor police chief Comm Datuk Kamarul Zaman Mamat said they were told of the cas
             `,
       published: "Jun 7,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -244,7 +244,7 @@ VR as a tool, especially for communication, isn’t a novel concept. When Meta
             `,
       published: "Jun 10,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -266,7 +266,7 @@ VR as a tool, especially for communication, isn’t a novel concept. When Meta
             `,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -296,7 +296,7 @@ Mix it up. Video lessons are great, but you need to practice to learn. Exercises
 `,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -340,7 +340,7 @@ Hub is a command line tool that makes it easier to use GitHub. Often I will be w
 By typing hub browse in the terminal, it will auto-magically open the url of the repository directly in your browser for distraction free GitHub-ing. Boom. `,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -374,7 +374,7 @@ The main purpose of Redux is to isolate state management from I/O side effects s
 When your view render is isolated from network I/O and state updates, you can achieve a deterministic view render, meaning: given the same state, the view will always render the same output. It eliminates the possibility of problems such as race conditions from asynchronous stuff randomly wiping out bits of your view, or mutilating bits of your state as your view is in the process of rendering.`,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -398,7 +398,7 @@ This happens because we mostly use standard prompts that might help us get the j
 We need to learn how to create high-quality prompts to get better results. We need to learn prompt engineering! And, in this guide, we’ll learn 4 techniques used in prompt engineering.`,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -427,7 +427,7 @@ As you can see, Bard neither supports roles nor languages other than English.
 `,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -466,7 +466,7 @@ All right, enough with the context. I hope you’ll enjoy reading the rest, and 
 `,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -488,7 +488,7 @@ The new AI chatbot has answered queries for more than 1 million users so far and
 OpenAI was most recently valued at $20 billion in a secondary share sale, news sources said. The startup has already inspired rivals and companies building applications atop its generative AI software, which includes the image maker DALL-E 2.‌‌`,
       published: "Jun 3,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -514,7 +514,7 @@ And senior product manager Martijn de Kuijper, who founded newsletter tool Revue
             `,
       published: "Jun 5,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -536,7 +536,7 @@ And senior product manager Martijn de Kuijper, who founded newsletter tool Revue
       It must be noted that Meta Verified will first be launched in Australia and New Zealand this week and eventually, the service will be rolled out in other countries as well. Back then, even when Twitter launched its paid blue tick or Twitter Blue, the service was first launched in select countries and then eventually rolled out to others.`,
       published: "Jun 7,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -571,7 +571,7 @@ The Australian newspaper late on Monday reported Albanese had agreed to the ban 
             `,
       published: "Jun 10,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
@@ -593,7 +593,7 @@ The one major upgrade here is the new chip. To be clear, this variant of the M2 
             `,
       published: "Jun 14,  2022",
       author: {
-        name: "Flying High",
+        name: "Random Person",
         img: "/images/author/author1.png",
         designation: "CEO and Founder",
       },
