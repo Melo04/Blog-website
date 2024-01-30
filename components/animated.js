@@ -37,11 +37,11 @@ export default function animated() {
         className="flex flex-col items-center py-10 h-screen w-screen"
         style={{ overflowY: "auto" }}
       >
-        <div class="text-center">
-          <h1 class="text-4xl font-black bg-gradient-to-r bg-clip-text text-transparent from-blue-500 to-green-500 inline-block">
+        <div className="text-center">
+          <h1 className="text-4xl font-black bg-gradient-to-r bg-clip-text text-transparent from-blue-500 to-green-500 inline-block">
             What Are We Trying to Achieve
           </h1>
-          <p class="font-bold text-gray-600 mt-2 mb-10 sm:mb-28">
+          <p className="font-bold text-gray-600 mt-2 mb-10 sm:mb-28">
             Try Dragging Around The Cursors 🖐
           </p>
         </div>

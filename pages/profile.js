@@ -78,7 +78,7 @@ export default function admin({session, posts}) {
             </Link>
           </div>
 
-          <main class="sm:mx-10 sm:my-5 md:grid md:grid-cols-2 lg:grid-cols-3 gap-8 mx-5 my-10 grid-cols-1">
+          <main className="sm:mx-10 sm:my-5 md:grid md:grid-cols-2 lg:grid-cols-3 gap-8 mx-5 my-10 grid-cols-1">
             {posts.map((post) => (
               <BlogCard
                 title={post.title}

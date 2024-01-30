@@ -32,11 +32,11 @@ export default function review() {
 
     return (
       <>
-        <div class="text-center">
-          <h1 class="text-4xl font-black bg-gradient-to-r bg-clip-text text-transparent from-blue-500 to-green-500 inline-block">
+        <div className="text-center">
+          <h1 className="text-4xl font-black bg-gradient-to-r bg-clip-text text-transparent from-blue-500 to-green-500 inline-block">
             Our Reviews
           </h1>
-          <p class="text-gray-600 mt-2 font-bold">- Read what our users are saying -</p>
+          <p className="text-gray-600 mt-2 font-bold">- Read what our users are saying -</p>
         </div>
 
         <div className="relative">
@@ -50,7 +50,7 @@ export default function review() {
                 }}
                 ref={containerRef}
               >
-                <figure class="bg-white rounded-2xl shadow-lg overflow-hidden rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg overflow-hidden rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-yellow-100"></div>
                     <p className="font-bold text-lg">
@@ -95,7 +95,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg -rotate-2 hover:-rotate-1 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg -rotate-2 hover:-rotate-1 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">
@@ -141,7 +141,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">
@@ -188,7 +188,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">
@@ -232,7 +232,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">
@@ -276,7 +276,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">
@@ -321,7 +321,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">
@@ -366,7 +366,7 @@ export default function review() {
                   </div>
                 </figure>
 
-                <figure class="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
+                <figure className="bg-white rounded-2xl shadow-lg rotate-1 hover:rotate-0 transition duration-200">
                   <blockquote className="p-8">
                     <div className="mb-5 text-blue-100"></div>
                     <p className="font-bold text-lg">

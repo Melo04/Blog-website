@@ -74,7 +74,7 @@ export default function info() {
                     </p>
                   </div>
 
-                  <p class="text-white mb-0">
+                  <p className="text-white mb-0">
                     Join us on this exciting technological journey as we delve
                     into the latest trends, review the newest gadgets, and
                     provide practical tips and tricks to enhance your tech
@@ -99,7 +99,7 @@ export default function info() {
               <div>
                 <img
                   src="https://img.freepik.com/free-vector/floating-man-using-virtual-reality-headset-concept_52683-52780.jpg?w=1060&t=st=1680937412~exp=1680938012~hmac=ee08dfca9b6526347bcc0cd46f405f71fe9dab17e2708574af555c8e90fe797a"
-                  class="w-full rounded-lg shadow-lg border border-green-200"
+                  className="w-full rounded-lg shadow-lg border border-green-200"
                   alt=""
                 />
               </div>
